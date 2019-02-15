@@ -297,37 +297,10 @@ header .logo {
 }
 
 
-.collection-content .collection-middle2 {
-    width: 12.5%;
-    height: 50px;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
+
+.container-about-page .container-about-page .about-button {
+    color: red;
 }
-
-
-.collection-content .collection-middle3 {
-    width: 12.5%;
-    height: 50px;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-
-.collection-content .collection-middle4 {
-    width: 12.5%;
-    height: 50px;
-    margin: 20px 2.5%;
-    color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 
 
