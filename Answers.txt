@@ -2,18 +2,22 @@
 
 Answer - Organizing content to indicate what properties to give to each group of content.
 
-Name two big differences between display: block; and display: inline;.
+
+2.  Name two big differences between display: block; and display: inline;.
 
 Answer -  The two big differences are, block has some whitespace above and below and it does not allow other HTML elements to be next to it, unless specifically coded to.
 
-What are the 4 areas of the box model?
+
+3.  What are the 4 areas of the box model?
 
 Answer - The 4 areas of the box model are, margin, border, padding and content.
 
-While using flexbox, what axis does the following property work on: align-items: center?
+
+4.  While using flexbox, what axis does the following property work on: align-items: center?
 
 Answer - The cross axis.
 
-Explain why git is valuable to a team of developers.
+
+5.  Explain why git is valuable to a team of developers.
 
 Answer - Git allows multiply programmers to work on the same project at the same time easily. 
