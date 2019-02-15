@@ -5,7 +5,7 @@ Answer - Organizing content to indicate what properties to give to each group of
 
 2.  Name two big differences between display: block; and display: inline;.
 
-Answer -  The two big differences are, block has some whitespace above and below and it does not allow other HTML elements to be next to it, unless specifically coded to.
+Answer -  The two big differences are, block has some whitespace above and below and it does not allow other HTML elements to be next to it, unless specifically coded to.(on separate line)
 
 
 3.  What are the 4 areas of the box model?
