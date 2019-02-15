@@ -115,30 +115,30 @@ p {
     background: teal;
 }
 .middle-content .boxes .a2 {
-    background: teal;
+    background: gold;
 }
 .middle-content .boxes .a3 {
-    background: teal;
+    background: cadetblue;
 }
 .middle-content .boxes .a4 {
-    background: teal;
+    background: coral;
 }
 .middle-content .boxes .a5 {
-    background: teal;
+    background: crimson;
 }
 .middle-content .boxes .a6 {
-    background: teal;
+    background: forestgreen;
 }
 .middle-content .boxes .a7 {
-    background: teal;
+    background: darkorchid;
 }
 .middle-content .boxes .a8 {
-    background: teal;
+    background: hotpink;
 }
 .middle-content .boxes .a9 {
-    background: teal;
+    background: indigo;
 }.middle-content .boxes .a10 {
-    background: teal;
+    background: dodgerblue;
 }
 
 
@@ -223,6 +223,7 @@ header .logo {
 
 .collection-content .collection-middle {
     padding: 20px;
+    border-top: 1px dotted black;
     border-bottom: 1px dotted black;
     width: 400px;
     margin: 20px 0;
