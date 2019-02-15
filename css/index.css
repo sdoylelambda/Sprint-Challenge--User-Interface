@@ -296,13 +296,14 @@ header .logo {
     margin: 20px 0;
 }
 
-
-
-
 .container-about-page .about-button {
     margin-top: 20px;
     margin-bottom: 10px;
+}
 
+.container-about-page .about-about {
+    border-bottom: 1px dotted black;
+    margin-bottom: 20px;
 }
 
 
