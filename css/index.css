@@ -252,7 +252,7 @@ header nav {
     
     margin-top: 40px;
     margin-bottom: 40px;
-    width: 610px;
+    width: 720px;
     display: flex; 
     justify-content: space-between;
     align-items: baseline;
@@ -273,3 +273,15 @@ header .logo {
     margin-top: 40px;
     margin-bottom: 40px;
 }
+
+.container-about-page {
+    width: 720px;
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+    width: 800px;
+    margin: 0 auto;
+    
+}
+
+
