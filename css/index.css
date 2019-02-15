@@ -299,8 +299,10 @@ header .logo {
 
 
 
-.container-about-page .container-about-page .about-button {
-    color: red;
+.container-about-page .about-button {
+    margin-top: 20px;
+    margin-bottom: 10px;
+
 }
 
 
