@@ -99,6 +99,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    color:red;
 }
 
 .middle-content .boxes .box {
@@ -143,4 +144,8 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+header nav a{
+    color: black;
 }
